@@ -1,0 +1,3 @@
+/home/benjamin/geo_proyect/build/CMakeFiles/geo_boost.dir
+/home/benjamin/geo_proyect/build/CMakeFiles/edit_cache.dir
+/home/benjamin/geo_proyect/build/CMakeFiles/rebuild_cache.dir
